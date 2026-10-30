@@ -10,7 +10,7 @@
 ```js
 const me = {
   role: "Full-Stack JavaScript Developer",
-  interests: ["Web", "Discord Bots", "Backend", "Automation"],
+  interests: ["Web", "Discord Bots", "Backend"],
   mindset: "Imagine first, code later."
 };
 ```
