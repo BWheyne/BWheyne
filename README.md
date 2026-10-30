@@ -2,7 +2,7 @@ Dandsetsu
 
 Some ideas start as imagination, some end up as code.
 
-"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=flat-square&label=VISITORS)
+"Profile Views" (https://komarev.com/ghpvc/?username=BWheyne&color=8b5cf6&style=flat-square&label=VISITORS)
 
 const dandsetsu = {
   role: "Full-Stack JavaScript Developer",
