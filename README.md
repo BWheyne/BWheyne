@@ -1,6 +1,3 @@
-
-# Dandsetsu
-
 ![Visitors](https://komarev.com/ghpvc/?username=BWheyne&color=8b5cf6&style=flat-square&label=VISITORS)
 
 ### `01` — Identity
