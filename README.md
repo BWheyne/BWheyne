@@ -1,5 +1,3 @@
----
-
 ![Visitors](https://komarev.com/ghpvc/?username=BWheyne&color=8b5cf6&style=flat-square&label=VISITORS)
 
 ---
@@ -34,6 +32,8 @@ Turning random ideas into functional websites, panels, and Discord bots.
 ### `04` — Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BWheyne&layout=compact&theme=transparent&title_color=a78bfa&text_color=c9c9d1&hide_border=true)
+
+---
 
 ### `05` — Elsewhere
 
