@@ -1,29 +1,30 @@
-Dandsetsu
 
-Some ideas start as imagination, some end up as code.
+# Dandsetsu
 
-"Profile Views" (https://komarev.com/ghpvc/?username=Dand&color=8b5cf6&style=flat-square&label=VISITORS)
+*Some ideas start as imagination, some end up as code.*
 
-const dandsetsu = {
+![Visitors](https://komarev.com/ghpvc/?username=BWheyne&color=8b5cf6&style=flat-square&label=VISITORS)
+
+### `01` — Developer Identity
+
+```js
+const me = {
   role: "Full-Stack JavaScript Developer",
-  interests: [
-    "Web Development",
-    "Discord Bots",
-    "Backend Systems",
-    "Automation"
-  ],
-  mindset: "Imagine first, code later.",
-  experience: "Still learning, always experimenting."
+  interests: ["Web", "Discord Bots", "Backend", "Automation"],
+  mindset: "Imagine first, code later."
 };
+```
 
-Currently Creating
+### `02` — What I'm Building
 
 Turning random ideas into functional websites, panels, and Discord bots.
 
-Find My Corner
+### `03` — Elsewhere
 
-"Profile" (https://guns.lol/dandsetsu) · "Thoughts" (https://sharetext.cc/dz79xp1s) · "Discord" (https://discord.gg/KJTzUhQYvC)
+[My Profile](https://guns.lol/dandsetsu)  
+[My Thoughts](https://sharetext.cc/dz79xp1s)  
+[Discord Community](https://discord.gg/KJTzUhQYvC)
 
-<sub>Made with curiosity, imagination, and JavaScript.</sub>
+---
 
-"112205"
+`112205`
