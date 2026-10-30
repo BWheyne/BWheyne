@@ -1,4 +1,8 @@
+---
+
 ![Visitors](https://komarev.com/ghpvc/?username=BWheyne&color=8b5cf6&style=flat-square&label=VISITORS)
+
+---
 
 ### `01` — Identity
 
@@ -10,9 +14,13 @@ const me = {
 };
 ```
 
+---
+
 ### `02` — What I'm Building
 
 Turning random ideas into functional websites, panels, and Discord bots.
+
+---
 
 ### `03` — What Am I Doing Now?
 
@@ -20,6 +28,8 @@ Turning random ideas into functional websites, panels, and Discord bots.
 - Founder of Night Laught with 4 stupid dumbass friends
 - Playing OwO Bot
 - Watching SquChan's cooking streams
+
+---
 
 ### `04` — Most Used Languages
 
