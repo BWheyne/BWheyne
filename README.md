@@ -26,7 +26,7 @@ Turning random ideas into functional websites, panels, and Discord bots.
 
 ### `04` — Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BWheyne&layout=compact&theme=transparent&title_color=a78bfa&text_color=c9c9d1&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BWheyne&layout=compact&theme=transparent&title_color=a78bfa&text_color=c9c9d1&hide_border=true)
 
 ### `05` — Elsewhere
 
